@@ -1,37 +1,13 @@
-## Alive Squad
+# Alive Squad
 
-You can use the [editor on GitHub](https://github.com/Yanis1m/Yanis1m.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Back to the surface, Alive Squad immerses you in a universe mixing adventure and mystery, the goal: to find your way through the bowels of Zuri, a hostile planet populated by extraterrestrials.
+    
+To do this, you will have to understand and adapt to your environment in order to survive! To win, you have to climb the floors by jumping with precision while staying alive.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Story
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yanis1m/Yanis1m.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The story begins when a group of astronauts leave the overpopulated Earth in order to find a new habitable planet.
+Their ship being damaged by a storm of asteroids, they crash on a planet, Zuri. But when trying to get out of the ship, they slip to the bottom of a crevasse.
+The majority of the crew gets captured by a mysterious species living on this planet. 
+Alone, Philippe avoids being captured but found at the bottom of a cave. 
+His goal is simple, free his comrades and find a way to repair the ship to return to Earth.
