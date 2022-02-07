@@ -22,7 +22,18 @@ Each level will have its particularity and will be unique. The game will get har
 level. The player will discover the mechanics of the game as they go. You will have to be precise
 and fast while on the move so you don't fall off and get lost.
 
+### Game Style
+Alive Squad is inspired by the famous video games Doodle Jump, Getting
+Over It or Jump King. These three games have one thing in common, like Alive Squad, they have a
+easy to understand concept however Doodle Jump is a game rather made for parties
+fast and is easy unlike the other two which are complicated games, frustrating and
+long. Alive Squad is a mix of both.
+![Doodle Jump](/Images/Doodle-Jump-2068.png)
+![Getting Over It](/Images/getting-over-it.png)
+![Jump King](/Images/jump-king-9373-6874.png)
+
+
 ### Task list 
-- [ ] Make the first pictures
-- [ ] Make the firt mouvements/interaction on Unity 
-- [ ] Make the website 
+- [ ]  Make the first pictures
+- [ ]  Make the firt mouvements/interaction on Unity 
+- [x]  Make the website 
