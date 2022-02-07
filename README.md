@@ -29,9 +29,8 @@ easy to understand concept however Doodle Jump is a game rather made for parties
 fast and is easy unlike the other two which are complicated games, frustrating and
 long. Alive Squad is a mix of both.
 <img src="/Images/Doodle-Jump-2068.png" width="500" height="500">
-![Getting Over It](/Images/getting-over-it.png)
-![Jump King](/Images/jump-king-9373-6874.png)
-
+<img src="/Images/getting-over-it.png" width="500" height="500">
+<img src="/Images/jump-king-9373-6874.png" width="500" height="500">
 
 ### Task list 
 - [ ]  Make the first pictures
