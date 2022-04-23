@@ -5,7 +5,7 @@ Back to the surface, Alive Squad immerses you in a universe mixing adventure and
 To do this, you will have to understand and adapt to your environment in order to survive! To win, you have to climb the floors by jumping with precision while staying alive.
 
 <details>
-<summary>Introduction</summary>
+    <summary> <h2> Introduction </h2> </summary>
 <br>
 Alive Squad is developed by Clément Cotte, Matis Lima Barros, Ange Mercoyrol--Dol and Yanis Martin.
     
@@ -42,7 +42,7 @@ long. Alive Squad is a mix of both.
 </details>
 
 <details>
-<summary>Project progress: 1st Soutenance</summary>
+    <summary> <h2> Project progress: 1st Soutenance </h2> </summary>
 <br>
     
 <h3> Progression 03/11/2022 </h3>
