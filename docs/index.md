@@ -9,7 +9,7 @@ To do this, you will have to understand and adapt to your environment in order t
 <br>
 Alive Squad is developed by Clément Cotte, Matis Lima Barros, Ange Mercoyrol--Dol and Yanis Martin.
     
-### Story
+<h3> Story <h3>
 
 The story begins when a group of astronauts leave the overpopulated Earth in order to find a new habitable planet. Their ship being damaged by a storm of asteroids, they crash on a planet, Zuri. But when trying to get out of the ship, they slip to the bottom of a crevasse. The majority of the crew gets captured by a mysterious species living on this planet. 
 
