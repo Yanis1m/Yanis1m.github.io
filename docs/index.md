@@ -1,4 +1,4 @@
-# Alive Squad
+# Alive Squad Test
 
 Back to the surface, Alive Squad immerses you in a universe mixing adventure and mystery, the goal: to find your way through the bowels of Zuri, a hostile planet populated by extraterrestrials.
     
