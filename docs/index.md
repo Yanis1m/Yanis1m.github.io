@@ -1,5 +1,5 @@
 <head>
-    <h1> Alive Squad Test </h1>
+    <h1> Alive Squad </h1>
 <style>
     
     details {cursor: pointer;}
@@ -89,4 +89,10 @@ We will set up the first enemies and the end zones of the game
 in order to move on to the next levels. We will make sure that all the levels are finished by the next
 submission so that we can focus on multiplayer and the infinite path as well as refinements.
    
+</details>
+
+<details>
+    <summary> <h2> Project progress: 2nd Soutenance </h2> </summary>
+<br>
+
 </details>
