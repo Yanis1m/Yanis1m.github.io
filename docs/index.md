@@ -1,4 +1,4 @@
-# Alive Squad Test
+# Alive Squad Tes
 
 Back to the surface, Alive Squad immerses you in a universe mixing adventure and mystery, the goal: to find your way through the bowels of Zuri, a hostile planet populated by extraterrestrials.
     
@@ -36,8 +36,8 @@ fast and is easy unlike the other two which are complicated games, frustrating a
 long. Alive Squad is a mix of both.
 
 <p align="center">
-  <img src="/Images/Doodle-Jump-2068.png" width="300" height="300"> <img src="./Images/jump-king-9373-6874.png" width="500" height="300">
-  <img src="/Images/getting-over-it.png" width="500" height="300">
+  <img src="Images/Doodle-Jump-2068.png" width="300" height="300"> <img src="/Images/jump-king-9373-6874.png" width="500" height="300">
+  <img src="./Images/getting-over-it.png" width="500" height="300">
 </p>
 </details>
 
