@@ -36,8 +36,8 @@ fast and is easy unlike the other two which are complicated games, frustrating a
 long. Alive Squad is a mix of both.
 
 <p align="center">
-  <img src="/Alive-Squad_Website/Images/Doodle-Jump-2068.png" width="300" height="300"> <img src="/Alive-Squad_Website/Images/jump-king-9373-6874.png" width="500" height="300">
-  <img src="/Alive-Squad_Website/Images/getting-over-it.png" width="500" height="300">
+  <img src="./Images/Doodle-Jump-2068.png" width="300" height="300"> <img src="./Images/jump-king-9373-6874.png" width="500" height="300">
+  <img src="./Images/getting-over-it.png" width="500" height="300">
 </p>
 </details>
 
@@ -53,7 +53,7 @@ The camera has been implemented and follow the character. Elements and collision
 The camera follows the character with the CameraFollow script. For this we tell it at each frame to move towards the Player adding 2/10 of a second of delay for
 visual comfort.    
 <p align="center">
-  <img src="/Alive-Squad_Website/Images/Game.png" width="900" height="300"> 
+  <img src="./Images/Game.png" width="900" height="300"> 
 </p>
     
 ### Modeling
